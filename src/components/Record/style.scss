@@ -1,0 +1,13 @@
+.records {
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+}
+.head {
+  width: 100vw;
+  position: relative;
+  span {
+    position: absolute;
+    right: 1em;
+  }
+}
