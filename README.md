@@ -6,15 +6,11 @@
 # How to use
 ```
 git clone git@github.com:jubi33717f/calculator_application.git
-cd calculator_application/
-README.md
-in
-master
-
+cd calculator_application
 npm install
 npm start
 ```
-or [click the link]()
+or [click the link](https://calculator-application.vercel.app/)
 
 # Directory
 ```
