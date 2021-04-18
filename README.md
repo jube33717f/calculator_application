@@ -6,13 +6,18 @@
 # How to use
 ```
 git clone git@github.com:jubi33717f/calculator_application.git
-cd calculator
+cd calculator_application/
+README.md
+in
+master
+
 npm install
 npm start
 ```
 or [click the link]()
 
 # Directory
+```
 ├──calculator/                 * Base Calculator Demo
       |
       └─———src/                * main function
@@ -21,6 +26,7 @@ or [click the link]()
             |  |-Record        * 7 days records
             │  └─Button        * reuse button component 
             └─calculator.js    * Container 
+```
             
 # Implement 
 * basic calculator functions
