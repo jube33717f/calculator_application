@@ -5,7 +5,7 @@
 
 # How to use
 ```
-git clone
+git clone git@github.com:jubi33717f/calculator_application.git
 cd calculator
 npm install
 npm start
